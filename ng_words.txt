@@ -1,0 +1,228 @@
+# =========================================================
+# 暴言・侮辱 / Insults
+# =========================================================
+
+[暴言・侮辱]
+はげ
+ハゲ
+死ね
+消えろ
+失せろ
+黙れ
+うざい
+きもい
+きしょい
+気持ち悪い
+クズ
+ゴミ
+カス
+無能
+役立たず
+バカ
+馬鹿
+アホ
+あほ
+ボケ
+雑魚
+頭おかしい
+頭悪い
+存在価値ない
+お前はいらない
+お前は最低
+お前は終わってる
+
+[Insults]
+fuck you
+fuck off
+fucking idiot
+you idiot
+you moron
+you stupid
+you are stupid
+you are trash
+you are worthless
+you are pathetic
+shut up
+get lost
+piece of shit
+dumbass
+asshole
+bastard
+loser
+
+
+
+# =========================================================
+# 差別・ヘイト / Hate and Discrimination
+# =========================================================
+
+[差別・ヘイト]
+黒人
+ニガー
+人種差別
+民族差別
+外国人差別
+障害者差別
+差別主義者
+差別発言
+ヘイトスピーチ
+国に帰れ
+日本から出ていけ
+外国人は出ていけ
+お前らは劣っている
+
+[Hate and Discrimination]
+racist
+racism
+racial hate
+ethnic hate
+go back to your country
+get out of our country
+you don't belong here
+your kind is not welcome
+inferior race
+racial superiority
+nigger
+yellow monkey
+
+
+# =========================================================
+# 嫌がらせ・脅迫 / Harassment and Threats
+# =========================================================
+
+[嫌がらせ・脅迫]
+殺す
+しばくぞ
+殺害予告
+殺すぞ
+殺してやる
+ぶっ殺す
+殴るぞ
+襲うぞ
+痛い目に遭わせる
+危害を加える
+住所を晒す
+個人情報を晒す
+特定してやる
+家に行くぞ
+お前を襲う
+
+[Harassment and Threats]
+I will kill you
+I will hurt you
+I will attack you
+I will find you
+I know where you live
+I will dox you
+I will expose your address
+death threat
+physical threat
+you will regret this
+
+
+# =========================================================
+# 性的嫌がらせ / Sexual Harassment
+# =========================================================
+
+[性的嫌がらせ]
+セックス
+性行
+性的嫌がらせ
+セクハラ
+性的暴言
+性的侮辱
+性的な脅し
+裸の画像を送れ
+体を見せろ
+性的な画像を送れ
+ちんこ
+まんこ
+うんこ
+オナニー
+野獣先輩
+INMU KING
+田所浩二
+
+
+[Sexual Harassment]
+sexual harassment
+send nudes
+show me your body
+show your private parts
+unwanted sexual messages
+sexual threat
+penis
+sex
+masterbasion
+
+
+# =========================================================
+# 宣伝・詐欺 / Scams and Advertising
+# =========================================================
+
+[宣伝・詐欺]
+詐欺サイト
+詐欺
+アカウント販売
+アカウント買います
+アカウント売ります
+無料配布中
+無料で配布
+簡単に稼げる
+絶対儲かる
+必ず儲かる
+投資で稼ぐ
+パスワードを入力
+認証コードを送って
+ログイン情報を送って
+
+[Scams and Advertising]
+free nitro
+free gift
+free giveaway
+account for sale
+buy account
+sell account
+cheap accounts
+get rich quick
+guaranteed profit
+send me your password
+send verification code
+claim your reward
+click here to claim
+
+
+# =========================================================
+# スパム・荒らし / Spam and Raiding
+# =========================================================
+
+[スパム・荒らし]
+サーバー荒らし
+荒らし募集
+
+[Spam and Raiding]
+raid this server
+server raid
+mass invite
+spam this server
+join my server
+spam invite
+
+# =========================================================
+# 宗教
+# =========================================================
+
+[宗教関連]
+麻原彰晃
+オウム真理教
+旧統一教会
+創価学会
+池田大作
+仏教
+キリスト教
+イスラーム
+ユダヤ
+大乗仏教
+小乗仏教
+上座部仏教
+上座仏教
